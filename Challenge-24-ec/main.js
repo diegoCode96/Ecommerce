@@ -1,4 +1,4 @@
-// Cambio de cantidad de articulos ingresado por el usuario.
+
 
 const minusBtn = document.querySelector('.input__minus');
 const plusBtn = document.querySelector('.input__plus');
